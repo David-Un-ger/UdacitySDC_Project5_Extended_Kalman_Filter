@@ -6,8 +6,7 @@ In this project I utilized a kalman filter to estimate the state of a moving obj
 
 ---
 
-[image1]: data/RMSE_Visualization.jpg "Visualization"
-![alt text][image1]
+![alt text](https://github.com/FinnHendricks/UdacitySDC_Project5_Extended_Kalman_Filter/blob/master/data/RMSE_Visualization.JPG)
 
 
 ---
